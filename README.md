@@ -5,11 +5,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-@pierre.campmas-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pierre.campmas/)](https://instagram.com/pierre.campmas)
 
 <img alt="DevImage" align="right" src="https://zupimages.net/up/21/52/2xlw.png" width="500">
-  
+
+<p align='left'>
 Welcome to my profile ! I'm a IT student current live in France, 
 full-time behind my computer without distraction.
 Thank you for your visit and do not hesitate to contact me.
-
+</p>
+  
 <br>
 
 ## 🛠️ My Skills
