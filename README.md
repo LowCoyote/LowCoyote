@@ -1,15 +1,17 @@
-## Hi there ! 👋😃
-  
+## Hi there ! 👋😃 
+
 [![Gmail Badge](https://img.shields.io/badge/-campmas.pierre-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:campmas.pierre@gmail.com)](mailto:campmas.pierre@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@C2delow-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/C2delow)](https://twitter.com/C2delow)
 [![Instagram Badge](https://img.shields.io/badge/-@pierre.campmas-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pierre.campmas/)](https://instagram.com/pierre.campmas)
-<p align='left'>
+
+<img alt="DevImage" align="right" src="https://zupimages.net/up/21/52/2xlw.png" width="500">
+  
 Welcome to my profile ! I'm a IT student current live in France, 
 full-time behind my computer without distraction.
 Thank you for your visit and do not hesitate to contact me.
-</p>
-<img alt="DevImage" align="right" src="">
+
 <br>
+
 ## 🛠️ My Skills
 ### 👉 Programming languages
 
@@ -92,6 +94,5 @@ ____
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <p align="center">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=LowCoyote&theme=blue-green" alt="ovi" width="550" /></p>
-
 
 
