@@ -27,7 +27,7 @@ Thank you for your visit and do not hesitate to contact me.
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
     &emsp;
-  <a href="https://www.php.net/">
+  <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   </a>
   &emsp;
