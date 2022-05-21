@@ -88,8 +88,6 @@ Thank you for your visit and do not hesitate to contact me.
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
-   <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=white"></a>
-  &emsp;
 </p>
 
 ____
