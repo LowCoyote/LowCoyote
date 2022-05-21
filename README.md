@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@C2delow-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/C2delow)](https://twitter.com/C2delow)
 [![Instagram Badge](https://img.shields.io/badge/-@pierre.campmas-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pierre.campmas/)](https://instagram.com/pierre.campmas)
 
-<img alt="DevImage" align="right" src="https://zupimages.net/up/22/12/4pd1.png" width="500">
+<img alt="DevImage" align="right" src="https://zupimages.net/up/22/12/4pd1.png" width="900">
 
 <p align='left'>
 Welcome to my profile ! I'm a IT student current live in France, 
@@ -87,6 +87,8 @@ Thank you for your visit and do not hesitate to contact me.
     <a href="https://www.jetbrains.com/fr-fr/"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-00000F.svg?logo=jetBrains&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=white"></a>
   &emsp;
 </p>
 
