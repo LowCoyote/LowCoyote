@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@C2delow-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/C2delow)](https://twitter.com/C2delow)
 [![Instagram Badge](https://img.shields.io/badge/-@pierre.campmas-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pierre.campmas/)](https://instagram.com/pierre.campmas)
 
-<img alt="DevImage" align="right" src="https://zupimages.net/up/22/12/4pd1.png">
+<img alt="DevImage" align="right" src="https://zupimages.net/up/22/12/4pd1.png" width="500px">
 
 <p align='left'>
 Welcome to my profile ! I'm a IT student current live in France, 
