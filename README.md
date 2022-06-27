@@ -95,8 +95,6 @@ Thank you for your visit and do not hesitate to contact me.
 ____
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
 <p align="center">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=LowCoyote&theme=blue-green" alt="ovi" width="550" /></p>
 
 
