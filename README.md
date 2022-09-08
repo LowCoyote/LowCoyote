@@ -19,8 +19,8 @@ Thank you for your visit and do not hesitate to contact me.
 
 <p align="left"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <a href="https://vuejs.org/" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
    </a>
   &emsp;
   <a href="https://www.php.net/">
@@ -36,9 +36,23 @@ Thank you for your visit and do not hesitate to contact me.
   </a>
   &emsp;
   <a href="https://docs.microsoft.com/dotnet/csharp/">
-    <img alt="Java" src="https://img.shields.io/badge/C%23-00599C.svg?logo=c%2B%2B&logoColor=white"/>
+    <img alt="CSharp" src="https://img.shields.io/badge/C%23-00599C.svg?logo=c%2B%2B&logoColor=white"/>
   </a>
 </p>
+
+### 👉 Favorite Framework
+<p align="left">
+    &emsp;
+  <a href="https://vuejs.org/" target="_blank"> 
+     <img alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
+   </a>
+      &emsp;
+  <a href="https://symfony.com/" target="_blank"> 
+     <img alt="Symfony" src="https://img.shields.io/badge/Symfony-%2300843e.svg?style=flat&logo=symfony&logoColor=white">
+   </a>
+</p>
+  
+
 
 ### 👉 Frontend Development
 
@@ -73,6 +87,10 @@ Thank you for your visit and do not hesitate to contact me.
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
+  &emsp;
+    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
+   &emsp;
+    <a href="https://console.cloud.google.com"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
  </p>
  
 ### 👉 Software & Tools
