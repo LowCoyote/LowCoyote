@@ -6,7 +6,7 @@
 <img alt="DevImage" align="right" src="https://zupimages.net/up/22/12/4pd1.png" width="500px">
 
 <p align='left'>
-Welcome to my profile ! I'm a IT student current live in France, 
+Welcome to my profile ! I'm a IT worker current live in France, 
 full-time behind my computer without distraction.
 Thank you for your visit and do not hesitate to contact me.
 </p>
